@@ -1,4 +1,4 @@
-const TFIDF = require('./tf-idf')
+const TFIDF = require('./src/tf-idf')
 const fs = require('fs');
 
 let data = [
